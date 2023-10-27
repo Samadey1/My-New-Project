@@ -1,0 +1,5 @@
+C:\Users\SAMUEL\Desktop\My New Project\YouTube Project\obj\Debug\net6.0\YouTube Project.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\My New Project\YouTube Project\obj\Debug\net6.0\YouTube Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL\Desktop\My New Project\YouTube Project\obj\Debug\net6.0\YouTube Project.AssemblyInfoInputs.cache
+C:\Users\SAMUEL\Desktop\My New Project\YouTube Project\obj\Debug\net6.0\YouTube Project.AssemblyInfo.cs
+C:\Users\SAMUEL\Desktop\My New Project\YouTube Project\obj\Debug\net6.0\YouTube Project.csproj.CoreCompileInputs.cache

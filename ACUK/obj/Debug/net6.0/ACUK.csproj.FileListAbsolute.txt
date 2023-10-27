@@ -1,0 +1,5 @@
+C:\Users\SAMUEL\Desktop\My New Project\ACUK\obj\Debug\net6.0\ACUK.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\My New Project\ACUK\obj\Debug\net6.0\ACUK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL\Desktop\My New Project\ACUK\obj\Debug\net6.0\ACUK.AssemblyInfoInputs.cache
+C:\Users\SAMUEL\Desktop\My New Project\ACUK\obj\Debug\net6.0\ACUK.AssemblyInfo.cs
+C:\Users\SAMUEL\Desktop\My New Project\ACUK\obj\Debug\net6.0\ACUK.csproj.CoreCompileInputs.cache
